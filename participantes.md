@@ -2,4 +2,4 @@
 
 - JP Escobar (@juanpabloe)
 - Rod Wilhelmy (@rodowi)
-
+- Sandra Barrón sandra.barron.ramirez@gmail.com
