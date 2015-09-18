@@ -4,3 +4,4 @@
 - Rod Wilhelmy (@rodowi)
 - Sandra Barrón sandra.barron.ramirez@gmail.com
 - Adrian Cuadros (@adriancuadros)
+- Joel Rivera (@cyraxjoe)
