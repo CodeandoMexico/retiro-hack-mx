@@ -7,3 +7,4 @@
 - Joel Rivera (@cyraxjoe)
 - Carlos Castellanos (@rockarloz)
 - Emanuel Zámano Herrera (@emanuelzh)
+- Andrea Cantú (@accantu)
