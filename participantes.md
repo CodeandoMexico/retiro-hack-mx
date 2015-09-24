@@ -10,3 +10,4 @@
 - Eli Parra (@elzr: [twitter](http://twitter.com/elzr), [github](http://github.com/elzr))
 - Norberto Ortigoza Márquez (@hiphoox)
 - Andrea Cantú (@accantu)
+- Eduardo Lopez De León (@edolopez)
