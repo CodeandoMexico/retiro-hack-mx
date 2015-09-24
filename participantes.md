@@ -8,3 +8,4 @@
 - Carlos Castellanos (@rockarloz: [twitter](http://twitter.com/rockarloz), [github](http://github.com/rockarloz))
 - Emanuel Zámano Herrera (@emanuelzh: [twitter](http://twitter.com/emanuelzh), [github](http://github.com/emanuelzh))
 - Eli Parra (@elzr: [twitter](http://twitter.com/elzr), [github](http://github.com/elzr))
+- Norberto Ortigoza Márquez (@hiphoox)
