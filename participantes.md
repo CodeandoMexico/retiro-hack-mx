@@ -11,3 +11,4 @@
 - Norberto Ortigoza Márquez (@hiphoox)
 - Andrea Cantú (@accantu)
 - Eduardo Lopez De León (@edolopez)
+- Andrés Gómez Urquiza (@arrobaNES [twitter](http://twitter.com/arrobaNES))
