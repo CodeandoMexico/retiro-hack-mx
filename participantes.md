@@ -11,3 +11,4 @@
 - Norberto Ortigoza Márquez (@hiphoox)
 - Andrea Cantú (@accantu)
 - Eduardo Lopez De León (@edolopez)
+- Vicki Foss (@fossvick: [twitter](http://twitter.com/fossvick); @vfoss: [github](http://github.com/vfoss))
