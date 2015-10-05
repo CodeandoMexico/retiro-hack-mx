@@ -11,3 +11,4 @@
 - Norberto Ortigoza Márquez (@hiphoox)
 - Andrea Cantú (@accantu)
 - Eduardo Lopez De León (@edolopez)
+- Salvador Barrón Medina (@el_sonny: [twitter](http://twitter.com/el_sonny), [github](http://github.com/el-sonny))
