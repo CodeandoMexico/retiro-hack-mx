@@ -15,3 +15,4 @@
 - Vicki Foss (@fossvick: [twitter](http://twitter.com/fossvick); @vfoss: [github](http://github.com/vfoss))
 - Carlos Toxtli (@ctoxtli: [twitter](http://twitter.com/ctoxtli), [github](http://github.com/psykohack))
 - Mario Alberto Chávez (@mario_chavez: [twitter](http://twitter.com/mario_chavez), [github](http://github.com/mariochavez))
+- Marco Velázquez (@marco7vr: [twitter](https://twitter.com/Marco7vr))
