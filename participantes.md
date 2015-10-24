@@ -16,3 +16,4 @@
 - Carlos Toxtli (@ctoxtli: [twitter](http://twitter.com/ctoxtli), [github](http://github.com/psykohack))
 - Mario Alberto Chávez (@mario_chavez: [twitter](http://twitter.com/mario_chavez), [github](http://github.com/mariochavez))
 - Hugo Osorio (@hugovom: [twitter](http://twitter.com/hugovom), [github](http://github.com/hugovom))
+- Marco Velázquez (@marco7vr: [twitter](https://twitter.com/Marco7vr))
