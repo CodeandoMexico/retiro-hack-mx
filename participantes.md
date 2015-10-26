@@ -18,3 +18,4 @@
 - Hugo Osorio (@hugovom: [twitter](http://twitter.com/hugovom), [github](http://github.com/hugovom))
 - Roberto Hidalgo ([twitter](https://twitter.com/unRob), [github](https://github.com/unRob))
 - Marco Velázquez (@marco7vr: [twitter](https://twitter.com/Marco7vr))
+- Yosune Chamizo Alberro (@_yosune: [twitter](https://twitter.com/_Yosune), [github](http://github.com/yosune50))
