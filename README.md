@@ -19,12 +19,7 @@ La 1era edición será el 6, 7 y 8 de noviembre de 2015 en San Miguel de Allende
 
 ## ¿Quiénes participarán?
 
-* Líderes de comunidad en ciudades
-* Líderes de empresas de tecnología
-* Líderes de escuelas / talleres de programación 
-* Organizadores de hackathons
-
-Ver [lista de participantes](participantes.md).
+* Ver [lista de participantes](participantes.md).
 
 ## Dinámica 
 ### Previo
@@ -35,8 +30,7 @@ Ver [lista de participantes](participantes.md).
 
 ### Durante el evento
 
-## Agenda
-###Viernes
+#### Viernes
 * 7 pm - Meet-n-Greet: Cena de reconocimiento
     * Presentarse entre todos - 1 minuto cada quien al micrófono
 * 8 pm - Bienvenida de Codeando México
@@ -51,7 +45,7 @@ Ver [lista de participantes](participantes.md).
 * 9.30 pm - Unirte a un área de enfoque
 * 10 pm - Sleep tight campers 
 
-### Sábado
+#### Sábado
 * 9 am - Desayuno / Standups
     * ¿Qué vamos a armar este día?
 * 10 am - Sprints / Trabaja en los proyectos de Codeando México 
@@ -65,7 +59,7 @@ Ver [lista de participantes](participantes.md).
     * ¿Qué problema confirmamos?
     * ¿Qué queremos trabajar para el futuro? 
 
-### Domingo
+#### Domingo
 * 9 am - Desayuno
 * 1 pm - Siguientes pasos en cada temática
 * 1.30 pm - Cierre de Codeando México 
