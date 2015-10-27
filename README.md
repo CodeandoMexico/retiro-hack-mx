@@ -66,7 +66,7 @@ Ver [lista de participantes](participantes.md).
     * ¿Qué queremos trabajar para el futuro? 
 
 ### Domingo
-* 9 am - Desayuno con mesas temáticas
+* 9 am - Desayuno
 * 1 pm - Siguientes pasos en cada temática
 * 1.30 pm - Cierre de Codeando México 
 
