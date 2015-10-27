@@ -26,7 +26,7 @@ La 1era edición será el 6, 7 y 8 de noviembre de 2015 en San Miguel de Allende
 * Líderes de escuelas / talleres de programación 
 * Organizadores de hackathons
 
-* Ver [lista de participantes](participantes.md).
+Ver [lista de participantes](participantes.md).
 
 ## Dinámica 
 ### Previo
