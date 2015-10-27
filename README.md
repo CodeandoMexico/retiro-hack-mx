@@ -5,10 +5,8 @@ El Retiro Hack México es una reunión de un fin de semana en donde developers d
 La 1era edición será el 6, 7 y 8 de noviembre de 2015 en San Miguel de Allende, Guanajuato. El evento es un esfuerzo de por [Codeando México](http://codeandomexico.org) y [Guanajuato Colabora](http://gtocolabora.org/).
 
 ## Motivaciones
-* Acercarse más a las comunidades tecnológicas existentes del país.
+* Acercarse más a las comunidades tecnológos existentes del país.
 * Buscar a agentes claves de la comunidad tecnológica al movimiento de Codeando México.
-    * Acercar tecnológicos las problemáticas públicos y sociales del país.
-    * Conocer sus motivaciones y buscar cómo enfocar esas motivaciones.
 * Encontrar las temáticas importantes para poner en la agenda de tecnología cívica en el país.
 
 ## Output
