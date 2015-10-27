@@ -29,19 +29,11 @@ Ver [lista de participantes](participantes.md).
 ## Dinámica 
 ### Previo
 
-* Grooming del GitHub de Codeando México
 * Proponer una problemática de México en GitHub issues en CodeandoMexico/retiro-hack-mexico
 * Proponer un área de enfoque para conversar en el Retiro
      * Un área de enfoque es una problemática que la solución
 
-### Durante el evento - ideas de dinámicas:
-
-* Cena de conocerse
-* Desconferencias / lightning talks 
-* Mesas de hackeo
-* Civic code retreat
-* Sprints
-* Cortes (Standups) durante las comidas
+### Durante el evento
 
 ## Agenda
 ###Viernes
