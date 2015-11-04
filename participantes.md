@@ -25,3 +25,4 @@
 - Hans Ramírez
 - Carlos Hugo Gonzalez Castell (@caarloshugo: [twitter](http://twitter.com/caarloshugo), [github](http://github.com/caarloshugo))
 - Ramón Valles Martínez (@mroutis: [github](http://github.com/mroutis))
+- Rolando Drouaillet Pumarino (@rolDrouaillet: [twitter](http://twitter.com/rolDrouaillet))
